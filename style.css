@@ -150,6 +150,9 @@ span{
     padding-left: 700px;
     padding-top: 29px;
 }
+.divbut :hover{
+    color: skyblue;
+}
 button{
     padding: 33px;
     text-align: center;
